@@ -3,10 +3,9 @@ layout: page
 title: "Bo Li Home Page"
 ---
 
-<img align="left" src="/images/boli15.png" alt="Alt Text" width="180">  <img align="right" src="/images/Logo_GT_SchellerCollegeOfBusiness.png" alt="Alt Text" width="400">   
+<img align="left" src="/images/boli15.png" alt="Alt Text" width="160">  <img align="right" src="/images/Logo_GT_SchellerCollegeOfBusiness.png" alt="Alt Text" width="600">   
 
-
-     
+---
 
 # Welcome to my website! I am Bo Li
 I am a Postdoctoral Fellow in Finance at Scheller College of Business, Georgia Institute of Technology. I obtained a Ph.D. in Finance at the W.P. Carey School of Business, Arizona State University, in May 2024.  
