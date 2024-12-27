@@ -20,7 +20,7 @@ Chen, Ren-Raw, and Bo Li. "A Closed-Form Solution to the Liquidity Discount Prob
 # Working Paper 
 ## Testing Business Cycle Theories: Evidence from the Great Recession [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4729718)
 
-<img align="left" width="400" height="740" src="/images/3rd_Paint_BusinessCycle_RefineHouseEmpShr_Q1vsQ5.png">
+<img align="left" width="400" height="720" src="/images/3rd_Paint_BusinessCycle_RefineHouseEmpShr_Q1vsQ5.png">
 Empirical business cycle studies using cross-country data usually cannot achieve causal relationships while within-country studies mostly focus on the bust period. We provide the first causal investigation into the boom period of the 1999-2010 U.S. cross-metropolitan business cycle. Using a novel research design, we show that credit expansion in private-label mortgages causes a differentially stronger boom (2000-2006) and bust (2007-2010) cycle in the house-related industries in the high net-export-growth areas. Thus, our results are consistent with the credit-driven household demand hypothesis. Most importantly, our unique research design enables us to perform the most comprehensive tests on theories (hypotheses) regarding the business cycle. We show that the following theories (hypotheses) cannot explain the cause of the 1999-2010 U.S. business cycle: the speculative euphoria hypothesis, the real business cycle theory, the collateral-driven credit cycle theory, the business uncertainty theory, and the extrapolative expectation theory.
 
 
