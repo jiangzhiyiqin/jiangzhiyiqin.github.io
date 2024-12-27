@@ -19,7 +19,7 @@ __Secondary__: Business Cycle and Inequality
 __Profile__: [Link to my CV](https://www.dropbox.com/scl/fi/tqquz10o2kl268gkwtzz0/CV_Complete_BoLi_Aug2024-GoogleSite-_FullVersion.pdf?rlkey=7605us2cwhwa2umr6z3demge6&st=gornjntw&dl=0)     
 
 ## Georgia Tech Advisor:   
-Sudheer Chava [website](https://www.scheller.gatech.edu/directory/faculty/chava/index.html); Email: sudheer.chava@scheller.gatech.edu  
+Sudheer Chava [Website](https://www.scheller.gatech.edu/directory/faculty/chava/index.html); Email: sudheer.chava@scheller.gatech.edu  
 
 ## ASU Dissertation Committee:   
 Laura Lindsey (chair) [Website](https://search.asu.edu/profile/642883); Email: laura.lindsey@asu.edu  
