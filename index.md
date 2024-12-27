@@ -3,15 +3,7 @@ layout: page
 title: "Bo Li Home Page"
 ---
 
-<img align="left" src="/images/boli15.png" alt="Alt Text" width="160">  <img align="right" src="/images/Logo_GT_SchellerCollegeOfBusiness.png" alt="Alt Text" width="590">   
-<pre>
-
-
-
-
-
-  
-</pre>      
+<img src="/images/BoLiHeadshot_GTSchellerCollegeOfBusiness.png" alt="Alt Text" width="840">
             
     
 ---
