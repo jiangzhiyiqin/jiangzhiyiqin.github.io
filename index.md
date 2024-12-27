@@ -5,17 +5,12 @@ title: "Bo Li Home Page"
 
 <img align="left" src="/images/boli15.png" alt="Alt Text" width="160">  <img align="right" src="/images/Logo_GT_SchellerCollegeOfBusiness.png" alt="Alt Text" width="590">   
 <pre>
-                              
-                               
-                                           
-                                       
-                                      
-                                 
 
 
 
-      
-      
+
+
+  
 </pre>      
             
     
