@@ -47,4 +47,4 @@ This paper establishes the causality between export growth and increased corpora
 
 
 ## Educated by Financial Crisis: Financial Literacy and Household Consumption in and after the Great Recession
-<img align="left" width="360" height="420" src="/images/6th_FinancialLiteracy_HousingBoomBustRebound.png"> <img align="right" width="360" height="400" src="/images/7th_FinancialLiteracy_HHLeverageBoomBustFlat.png">
+<img align="left" width="360" height="420" src="/images/6.1th_FinancialLiteracy_HousingBoomBustRebound.png"> <img align="right" width="360" height="400" src="/images/6.2th_FinancialLiteracy_HHLeverageBoomBustFlat.png">
