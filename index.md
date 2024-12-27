@@ -19,7 +19,7 @@ I am a Postdoctoral Fellow in Finance at Scheller College of Business, Georgia I
 ## Research Interest:
 __Primary__: Real Estate Finance, Household Finance, and Banking    
 __Secondary__: Business Cycle and Inequality     
-__Profile__: [**Link to my CV**](https://www.dropbox.com/scl/fi/tqquz10o2kl268gkwtzz0/CV_Complete_BoLi_Aug2024-GoogleSite-_FullVersion.pdf?rlkey=7605us2cwhwa2umr6z3demge6&st=gornjntw&dl=0)     
+__Profile__: [**Link to my CV**](/files/CV_Complete_BoLi_Aug2024[GoogleSite]_FullVersion.pdf)     
 
 ## Georgia Tech Advisor:   
 Sudheer Chava [Website](https://www.scheller.gatech.edu/directory/faculty/chava/index.html); Email: sudheer.chava@scheller.gatech.edu  
