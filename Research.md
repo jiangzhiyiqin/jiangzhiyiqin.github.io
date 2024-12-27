@@ -26,7 +26,7 @@ Empirical business cycle studies using cross-country data usually cannot achieve
 
 ## Household Leverage Cycle Around the Great Recession [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4753328)
 
-<img align="left" width="400" height="670" src="/images/2nd_Paint_HouseholdLeverage_Picture.png">
+<img align="left" width="400" height="650" src="/images/2nd_Paint_HouseholdLeverage_Picture.png">
 This paper provides the first causal evidence that credit supply expansion caused the 1999-2010 U.S. business cycle mainly through the channel of household leverage (debt-to-income ratio). Specifically, induced by net export growth, credit expansion in private-label mortgages, rather than government-sponsored enterprise mortgages, causes a much stronger boom (1999-2005) and bust (2008-2014) cycle in household leverage in the high net-export-growth metropolitan areas. In addition, such a stronger household leverage cycle creates a stronger boom and bust cycle in the local economy, including housing prices, residential construction investment, and house-related employment. Thus, our results are consistent with the credit-driven household demand channel (Mian and Sufi, 2018). Further, we show multiple pieces of evidence against the corporate channel, which is emphasized by other business cycle theories (hypotheses).   
 **Presentation**: ASU Ph.D. Seminar, Georgia Institute of Technology, 2024 FMA
 
